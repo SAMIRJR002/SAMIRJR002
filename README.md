@@ -119,15 +119,7 @@ class AhmedSamir:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=SAMIRJR002&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -150,15 +142,7 @@ class AhmedSamir:
 
 ---
 
-## 🔝 Top Contributed Repos
 
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=SAMIRJR002&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
@@ -170,15 +154,7 @@ class AhmedSamir:
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMIRJR002/SAMIRJR002/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAMIRJR002/SAMIRJR002/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SAMIRJR002/SAMIRJR002/output/github-snake.svg" />
-</picture>
 
 </div>
 
